@@ -1,0 +1,106 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "Iphone 10(X)",
+        "description": "Brand New iPhone X phones.",
+        "slug": "iphone-10x",
+        "price": "350.00",
+        "image": "products/iphone.jpeg",
+        "featured": true,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Samsung S 9",
+        "description": "Brand new Samsung S9 phones.",
+        "slug": "samsung-s9",
+        "price": "320.00",
+        "image": "products/samsung9.jpg",
+        "featured": false,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "Huawei",
+        "description": "P9 HD. Network \tTechnology \t\r\nGSM / HSPA / LTE\r\nLaunch \tAnnounced \t2016, April\r\nStatus \tAvailable. Released 2016, April\r\nBody \tDimensions \t145 x 70.9 x 7 mm (5.71 x 2.79 x 0.28 in)\r\nWeight \t144 g (5.08 oz)\r\nBuild \tFront glass, aluminum body\r\nSIM \tSingle SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)\r\nDisplay \tType \tIPS-NEO LCD capacitive touchscreen, 16M colors\r\nSize \t5.2 inches, 74.9 cm2 (~72.9% screen-to-body ratio)\r\nResolution \t1080 x 1920 pixels, 16:9 ratio (~423 ppi density)\r\nMultitouch \tYes\r\nProtection \tCorning Gorilla Glass 3",
+        "slug": "huawei-p9hd",
+        "price": "240.00",
+        "image": "products/huawei.jpeg",
+        "featured": true,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "Trevor Noah - Born a Crime",
+        "description": "From the streets of Cape Town to Hollywood",
+        "slug": "trevor-noah-born-a-crime",
+        "price": "8.99",
+        "image": "products/trevornoah.jpeg",
+        "featured": true,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "title": "Steve Harvey- Think Like a Man",
+        "description": "Why women must think like men",
+        "slug": "think-like-a-man",
+        "price": "11.69",
+        "image": "products/steveharvey.jpeg",
+        "featured": true,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+        "title": "Good to Great",
+        "description": "Why some companies fail and others succeed",
+        "slug": "good-to-great",
+        "price": "16.00",
+        "image": "products/jimcollins.jpeg",
+        "featured": true,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+        "title": "Think and Grow Rich",
+        "description": "Publsiher's Note: This is a digital version of the original work. Any errors are a refecltion of the original work.\r\n\r\nThink and Grow Rich is a motivational personal development and self-help book written by Napoleon Hill and inspired b",
+        "slug": "think-and-grow-rich",
+        "price": "6.99",
+        "image": "products/thinkgrowrih.jpeg",
+        "featured": true,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+        "title": "New Products Test",
+        "description": "What is Lorem Ipsum?\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\nWhy do we use it?\r\n\r\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\r\n\r\nWhere does it come from?\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+        "slug": "new-products-test",
+        "price": "23.00",
+        "image": "",
+        "featured": false,
+        "timestamp": "2018-12-04T02:53:59.048Z"
+    }
+}
+]
